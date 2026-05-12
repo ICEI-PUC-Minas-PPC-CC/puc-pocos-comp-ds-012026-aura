@@ -1,0 +1,20 @@
+title:
+authors:
+  - family-names: PEDRO
+    given-names: SARTO
+  - family-names: RICARDO
+    given-names: TARTARINI
+  - family-names: MATHEUS
+    given-names: HENRIQUE
+  - family-names: SAMUEL
+    given-names: AMARAL
+  - name-suffix: PROFESSOR
+    affiliation: PUC Minas
+    family-names: PONTES
+    given-names: DIEGO 
+keywords:
+  - DADOS
+  - PROBRABILIDADE
+repository-code: https://github.com/ICEI-PUC-Minas-PPC-CC/puc-pocos-comp-ds-012026-aura
+version: 1.0.0
+date-released: 2026-05-12
