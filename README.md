@@ -13,9 +13,9 @@
 ## Integrantes
 
 * PEDRO HENRIQUE FRANCO DA SILVA SARTO  
-* Nome completo do aluno 2  
-* Nome completo do aluno 3  
-* Nome completo do aluno 4  
+* MATHEUS HENRIQUE
+* RICARDO TARTARINI  
+* SAMUEL JACINTO  
 
 ---
 
