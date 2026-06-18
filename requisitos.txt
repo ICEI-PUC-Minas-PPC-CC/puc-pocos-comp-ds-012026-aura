@@ -1,5 +1,4 @@
-# Dependências do projeto
-# Exemplo:
-# pandas==2.2.2
-# numpy==2.1.1
-# scikit-learn==1.5.2
+Dependências do projeto
+
+Pytho==3.12
+Windowns==10.0.26000
