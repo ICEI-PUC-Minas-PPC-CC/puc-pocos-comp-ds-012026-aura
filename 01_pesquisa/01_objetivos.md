@@ -1,17 +1,9 @@
 # Objetivos
 
 ## Objetivo geral
-Descrever, em um parágrafo, o propósito central da pesquisa.
+Esta pesquisa tem como objetivo geral investigar a predição automática de aprovação de empréstimos bancários, considerando variáveis socioeconômicas e o histórico financeiro dos solicitantes, com foco em construir um pipeline reprodutível capaz de classificar candidatos como pagadores ou inadimplentes com precisão e consistência.
 
-## Objetivos específicos
-- Listar os objetivos específicos que conduzem ao objetivo geral.
-- Cada objetivo deve ser claro, verificável e coerente com o problema proposto.
-
-## Texto inicial sugerido
-Esta pesquisa tem como objetivo geral investigar [tema], considerando [contexto], com foco em [resultado esperado].
-
-Para atingir esse objetivo geral, foram definidos os seguintes objetivos específicos:
-- identificar ...
-- analisar ...
-- comparar ...
-- propor ...
+- identificar os atributos com maior poder preditivo sobre a aprovação de crédito;
+- analisar o impacto das decisões de pré-processamento nas métricas de desempenho dos modelos;
+- comparar três algoritmos de classificação (Regressão Logística, Árvore de Decisão e Random Forest) sob validação cruzada estratificada;
+- propor um pipeline modular e reprodutível de ciência de dados voltado à concessão automatizada de crédito.
